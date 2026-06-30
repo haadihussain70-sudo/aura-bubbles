@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Pop Adventure",
+  "description": "A vibrant bubble shooting game with increasing difficulty and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
